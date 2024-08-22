@@ -48,6 +48,17 @@
 ![Screenshot (30)](https://github.com/user-attachments/assets/ac2f40c8-128c-4987-bc77-687b8bb4a1e5)
 
 
+## Challenges
+
+- Integrating clerk with supabase
+https://supabase.com/partners/integrations/clerk
+## Future Enhancements
+
+- Job Recommendations: Implement a machine learning model to suggest jobs to users based on their profile and application history.
+
+- Employer Dashboard: Develop a comprehensive dashboard for employers to manage job postings and view analytics on their listings.
+
+- Messaging System: Add a real-time chat feature to facilitate direct communication between employers and job seekers.
 ## Tech Stack
 
 - React
